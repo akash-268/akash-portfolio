@@ -1,2 +1,2 @@
 # Akash Portfolio
-[Click me to check out](https://urlf.in/abportfolio)
+[Click me to check out](https://akashbajpai.netlify.app/)
